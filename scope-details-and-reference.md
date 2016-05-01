@@ -1,24 +1,62 @@
-# Scope details and reference
+## WDI
 
-Everytime I went through a topic I would update this to document my learning and references.
+- How the Internet Works
+- HTML5 
+- Chrome Developer Tools 
+- Text Editors
+- CSS Styling
+- CSS Box Model & Positioning
+- Web Typography
+- JavaScript Basic 
+- Debugging JavaScript
+- DOM Manipulation & Events 
+- Git and Github
+- Asynchronous JavaScript Callbacks
+- jQuery
+- CSS Pre-processors
+- Responsive Web Design
+- User Stories and Task Tracking
 
-## UNIT 1: FRONT-END DEVELOPMENT
+- Introduction to Angular.js
+- Extending DOM Elements with Custom Behaviors 
+- Client-side Models and Data Binding 
+- Views and Templates 
+- Client-side Form Validation 
+- Connecting and Syncing with a RESTAPI
+- Managing Authentication State 
+- Computer Science
+- Interview Fundamentals 
 
- - Chrome Developer Tools
- - CSSStyling
- - CSS Box Model & Positioning
- - Web Typo graphy 
- - JavaScript DataTypes,Objects,and Functions 
- - JavaScript Control Flow
- - Debugging JavaScript 
- - DOM Manipulation & Events
- - Git and Github 
- - Asynchronous JavaScript Callbacks
- - jQuery
- - JavaScript Scope
- - CSS Pre-processors
- - Responsive WebDesign 
- - User Stories and Task Tracking
+- Team Workflow using Git and Github 
+- Introduction to Node.js
+- RESTful Routing withE xpress.js
+- Advanced JavaScript OOP & Prototypal 
+- Inheritance 
+- Debugging and Logging in Node 
+- NoSQL Data Modeling 
+- NoSQL with MongoDB 
+- Mongo-backed Models with Mongoose
+- Underscore and Underscore Templates 
+- Express Views and EJS 
+- AJAX 
+- Encrypted Passwords and Authentication
+- Token-based Authentication 
+- OAuth and Third-party APIs 
+- Social Network/Third-party Application Login 
+- Introduction to Testing with Mocha and Chai 
+- Introduction to WebSockets 
 
-## More
- - Html forms
+- Ruby 
+- MVC Design Patterns 
+- Relational Data Modeling 
+- Introduction to SQL 
+- Object-Relational Mapping in ActiveRecord 
+- Building & Submitting Forms 
+- Controllers and Routes 
+- Layouts,Partials,& Views 
+- Introduction to Ruby on Rails 
+- Encrypted Passwords and Authentication
+- Bootstrap 
+- Heroku Deployment 
+- Introduction to Testing and TDD 
+- Accessing Third-party APIs 
