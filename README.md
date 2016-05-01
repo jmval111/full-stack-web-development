@@ -1,9 +1,27 @@
 # Full Stack Web Dev Learning 
 
-I have never been in this high spirit.
 After seriously considering about enrolling General Assembly Web Development Immersive. I decided to make use of online resourse instead and learn it myself (Reasons are GA is too expensive and I believe in myself). There are Udacity and Coursera that I mostly used to learn the materials. And this repo is meant to keep track of my learning. My goal is simple: be a great coder, web developer and to make impacts.
 
-## Directory Structure
+## Table of Contents
+1. [Curriculum](#curriculum)
+2. [Self-Guided Topics](#self-guided-topics)
+3. [Repository Structure](#repository-structure)
+4. [Works History](#works-history)
+
+
+## Curriculum
+A curriculum is needed so that a clear roadmap of what I am gonna learn will help me keep my learning on track even the courses that I enrolled may already has their own topic. As I am a CS student with little web development, I could still outline the topics I should cover. To make a whole picture of the learning, I referenced to GA's [WDI course curriculum](WDI_CourseCurriculum_v2.0.pdf). And belows are what I planed on my learning scopes.
+
+#### Unit 1: FRONT-END DEVELOPMENT(expected days: 14-21 days)
+At the end of Unit 1, spend a few days building a front-end game using technologies like HTML, CSS, SCSS, JavaScript, and jQuery. The objective of the project is to:
+- Create an interactive game in the browser
+- Apply foundational programming skills to game logic
+- Document my project workflow
+
+## Self-Guided Topics
+In order to cover as many topics as possible for my learning, I tried to follow the topics in [WDI course curriculum](WDI_CourseCurriculum_v2.0.pdf). Instead, I search for relevant tutorials/documents myself to learn the topics. details and references are recorded in [here](scope-details-and-reference.md).
+
+## Repository Structure
 ```
 ├── coursera-courseworks
 │   └── Module1-HTML-CSS-JavaScript
@@ -17,8 +35,9 @@ After seriously considering about enrolling General Assembly Web Development Imm
             └── js
 ```
 
-## Works track
-**30-Apr-2016** - Add week-1 assignments 
-**30-Apr-2016** - Enroll Coursera Full Stack Web Development certificate course
-**28-Apr-2016** - Enroll Udacity's Object-Oriented JavaScript
+## Works History
+- **30-Apr-2016** - Add week-1 assignments 
+- **30-Apr-2016** - Enroll Coursera Full Stack Web Development certificate course
+- **28-Apr-2016** - Enroll Udacity's Object-Oriented JavaScript
+---------FRONT-END DEVELOPMENT---------
 
