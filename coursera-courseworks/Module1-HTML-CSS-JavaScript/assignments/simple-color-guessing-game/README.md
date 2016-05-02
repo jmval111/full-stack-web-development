@@ -1,6 +1,7 @@
 # Simple Color Guessing Game
-**Created on: **May 2, 2016
-**Last Update: **May 2, 2016
+**Created on:** May 2, 2016
+**Last Update:** May 2, 2016
+
 ---
 This is a javascript game that demonstrates the understanding of basic javascript's control flow, variable, arrays, loops, funcitons... 
 

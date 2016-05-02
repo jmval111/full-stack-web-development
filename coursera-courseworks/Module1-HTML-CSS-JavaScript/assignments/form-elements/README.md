@@ -1,6 +1,7 @@
 # Form Elements
-**Created on: **Apr 30, 2016
-**Last Update: **May 2, 2016
+**Created on:** Apr 30, 2016
+**Last Update:** May 2, 2016
+
 ---
 This is a html that demonstrates the understanding of basic form element and covers the usage of basic CSS.
 
