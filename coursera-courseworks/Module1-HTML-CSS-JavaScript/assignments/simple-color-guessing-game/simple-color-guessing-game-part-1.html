@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Simple Color Guessing Game</title>
+</head>
+
+<body onload="gameOn()">
+    <script>
+    var colors = ['Aqua', 'Blue', 'Indigo', 'LightSeaGreen', 'Navy', 'Red', 'Teal'];
+    var answer = Math.floor(Math.random() * (colors.length));
+    var guess = "";
+    var success = false;
+    var no_of_guess = 0;
+    var last_time = Date.now();
+    colors.sort();
+    colors = colors.map(function(c) {
+        return c.toLowerCase();
+    })
+    console.log('answer: ' + colors[answer]);
+
+    var gameOn = function() {
+        alert("The answer is " + colors[answer] + '.');
+
+        while (!success) {
+            // check if the user disable the dialog box
+            if ((Date.now() - last_time) < 200) {
+                success = false;
+                break;
+            }
+            last_time = Date.now();
+
+            guess = prompt("I am thinking of one of there colors: \n\n" +
+                colors.join(', ') + "\n\n" +
+                "What color am I thinking of?");
+            console.log('# of guesses: ' + no_of_guess);
+            no_of_guess++;
+
+            //check the guessing
+            success = checkGuess(colors.indexOf(guess))
+
+        }
+
+        if (success) {
+            var myBody = document.getElementsByTagName("body")[0];
+            myBody.style.background = guess;
+            alert("Congrad!! You made the right guess");
+        } else {
+            document.write('<h1 style="text-align: center;">You disable the dialog box, close the tag and try again.</h1>')
+        }
+    }
+
+    var checkGuess = function(g) {
+        if (g == answer) {
+            return true;
+        }
+    }
+    </script>
+</body>
+
+</html>
