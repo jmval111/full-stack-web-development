@@ -4,10 +4,16 @@ After seriously considering about enrolling General Assembly Web Development Imm
 
 ## Table of Contents
 1. [Repository Structure](#repository-structure)
+2. [Courseworks List](#courseworks-list)
 
 
 ## References
 In order to cover as many topics as possible for my learning, I tried to follow the topics in [WDI course curriculum](WDI_CourseCurriculum_v2.0.pdf). Instead of attending GA, I search for relevant tutorials/documents myself to learn the topics. details and references are recorded in [here](scope-details-and-reference.md).
+
+## Courseworks List
+- [Form Elements](coursera-courseworks/Module1-HTML-CSS-JavaScript/assignments/form-elements)
+- [Simple Color Guessing Game](coursera-courseworks/Module1-HTML-CSS-JavaScript/assignments/simple-color-guessing-game)
+- [Arcade game](udacity-courseworks/object-oriented-javascript)
 
 ## Repository Structure
 ```

@@ -1,4 +1,11 @@
 # Simple Color Guessing Game
+**Created on: **May 2, 2016
+**Last Update: **May 2, 2016
+---
+This is a javascript game that demonstrates the understanding of basic javascript's control flow, variable, arrays, loops, funcitons... 
+
+###How to
+open the html files in the browser.
 
 ###Part 1 Requirements.
 
