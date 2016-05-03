@@ -7,7 +7,7 @@ This is a javascript game that demonstrates the understanding of DOM, event hand
 
 ##How to
 
-[Open complete-matching-game.html](complete-matching game.html) in a browser.
+[Open complete-matching-game.html](complete-matching-game.html) in a browser.
 
 - Click on the extra smiling face on the left to process to next level.
 
