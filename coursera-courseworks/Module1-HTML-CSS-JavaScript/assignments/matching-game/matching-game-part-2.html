@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Matching Game by Ming Chan</title>
+    <style>
+    body {
+        width: 1000px;
+        margin: 0 auto;
+        text-align: center;
+        font-family: HanHei TC, PingFang HK, Helvetica Neue;
+    }
+    
+    div {
+        position: absolute;
+    }
+    
+    #leftSide {
+        float: left;
+        width: 500px;
+        height: 500px;
+        background-color: #FFEFD0;
+    }
+    
+    #rightSide {
+        left: 500px;
+        width: 500px;
+        height: 500px;
+        background-color: #CFFFE5;
+        border-left: 1px solid #979688;
+    }
+    
+    img {
+        position: absolute;
+    }
+    </style>
+</head>
+
+<body onload="generateFaces()">
+    <h1>Matching Game</h1>
+    <p>Click on the extra smiling face on the left</p>
+    <div>
+        <div id="leftSide"></div>
+        <div id="rightSide"></div>
+    </div>
+</body>
+<script>
+var numOfFaces = 5,
+    theLeftSide = document.getElementById('leftSide');
+
+var generateFaces = function() {
+    for (var i = 0; i < numOfFaces; i++) {
+        //create an element img and set those position values
+        var img = document.createElement('img');
+        img.setAttribute('src', 'http://home.cse.ust.hk/~rossiter/mooc/matching_game/smile.png');
+        img.style.top = Math.random() * 400 + "px";
+        img.style.left = Math.random() * 400 + "px";
+        theLeftSide.appendChild(img);
+    }
+
+}
+</script>
+
+</html>

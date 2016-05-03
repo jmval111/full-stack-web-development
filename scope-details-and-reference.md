@@ -2,7 +2,9 @@
 
 ## Front-End: Javascript & Html+CSS
 - HTML5 
+  - [HTML forms guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms)
 - Chrome Developer Tools 
+  - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
 - CSS Styling
 - CSS Box Model & Positioning
 - Web Typography
