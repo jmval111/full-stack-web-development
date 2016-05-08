@@ -15,7 +15,10 @@
 - Git and Github
 - Asynchronous JavaScript Callbacks
 - jQuery
+ - [Codecademy](https://www.codecademy.com/en/learn/jquery)
 - CSS Pre-processors
+ - [Bootstrap 3 Less Workflow Tutorial](http://www.helloerik.com/bootstrap-3-less-workflow-tutorial)
+ - [Getting Started with Less](https://scotch.io/tutorials/getting-started-with-less)
 - Responsive Web Design 
 - Bootstrap 
 - User Stories and Task Tracking
