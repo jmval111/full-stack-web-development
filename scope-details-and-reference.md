@@ -22,9 +22,13 @@
 - Responsive Web Design 
 - Bootstrap 
 - User Stories and Task Tracking
+- Web tools: bower, grunt, gulp, Yeoman
+ - [Bower 101](https://medium.com/@ZaidHanania/bower-101-c0b57322df8#.3lx2mvyf0)
 
 ## Front-End frameworks: Angular
 - Introduction to Angular.js
+ - [From beginner to expert in 7 steps series](http://www.ng-newsletter.com/posts/beginner2expert-how_to_start.html)
+ - [Learn AngularJS this Weekend](http://joelhooks.com/blog/2013/08/03/learn-angularjs-in-a-weekend/)
 - Extending DOM Elements with Custom Behaviors 
 - Client-side Models and Data Binding 
 - Views and Templates 
